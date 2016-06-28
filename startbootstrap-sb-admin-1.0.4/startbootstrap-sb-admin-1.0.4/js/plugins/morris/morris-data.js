@@ -68,13 +68,13 @@ $(function() {
     Morris.Donut({
         element: 'morris-donut-chart',
         data: [{
-            label: "Download Sales",
+            label: "فروش های دانلودی",
             value: 12
         }, {
-            label: "In-Store Sales",
+            label: "فروش های درون فروشگاه",
             value: 30
         }, {
-            label: "Mail-Order Sales",
+            label: "فروش از طریق ایمیل",
             value: 20
         }],
         resize: true
